@@ -1,2 +1,3 @@
 # Task-Mangement-System
-A Task Management Systempart of the Egypt Pioneers Initiative graduation projec
+A Task Management System as part of the Egypt Pioneers Initiative graduation project
+
