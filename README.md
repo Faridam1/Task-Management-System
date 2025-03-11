@@ -1,5 +1,5 @@
 # Task-Mangement-System
-Repository for our Task Management System graduation project. Development will start soon!🚀
+Repository for our Task Management System graduation project in the Egypt Pioneers Initiative. Development will start soon!🚀
 
 
 
